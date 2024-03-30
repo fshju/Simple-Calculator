@@ -1,0 +1,22 @@
+{
+  "name": "m10ra2-simple-calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator with Typescript, Node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "m5ra2-simple-calculator": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shahrukh",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
